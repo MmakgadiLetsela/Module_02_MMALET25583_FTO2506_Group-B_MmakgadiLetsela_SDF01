@@ -1,4 +1,4 @@
-# [SDF01] CHALLENGE: 1ST REPOSITORY
+# [SDF01] PROJECT: 1ST REPOSITORY
 
 # 👋 Hello, I'm Mmakgadi Letsela
 
@@ -75,7 +75,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I went to one hackathon with my friend not really interested in the world of tech and i was hooked. 
 
 ---
 
