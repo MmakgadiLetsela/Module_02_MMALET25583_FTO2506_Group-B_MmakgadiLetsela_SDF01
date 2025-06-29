@@ -36,7 +36,7 @@
 - 🤝 Teamwork & Collaboration
 - 📢 Communication Skills
 - 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🚀 Time Management Skills
 - 🚶‍♀️Leadership Skills
 
 ---
