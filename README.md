@@ -1,17 +1,18 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] CHALLENGE: 1ST REPOSITORY
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hello, I'm Mmakgadi Letsela
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
-## 🎯 About Me
+##  About Me💕
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+-  I'm currently learning **GitHub and version control** before diving into coding.
+-  Soon, I'll be exploring **HTML, CSS, and JavaScript**!
+-  I love problem-solving and working on creative projects.
+-  Looking forward to building my first real-world application.
+-  I love reading and going to church.
 
 ---
 
@@ -36,6 +37,7 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- 🚶‍♀️Leadership Skills
 
 ---
 
